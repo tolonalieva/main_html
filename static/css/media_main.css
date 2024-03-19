@@ -1,0 +1,423 @@
+@media screen and (max-width: 1285px) {
+    .img_bas{
+        width: 70px;
+        height: 50px;
+    }
+    .search-nav {
+        width: 810px;
+    }    
+}
+@media screen and (max-width: 1275px) {
+    .icon{
+        font-size: 30px;
+        padding: 0 10px;
+    }
+}
+@media screen and (max-width: 1210px){
+    .zakazt{
+        width: 330px;
+        height: 445px;
+    }
+    .zakazt_title {
+    font-size: 30px;
+    }
+    .zakazt_text {
+    font-size: 15px;
+    }
+    .zakazt_btn {
+    padding: 15px 95px;
+    }
+}
+@media screen and (max-width: 1140px) {
+       .zakazt{
+        width: 310px;
+    }
+    .zakazt_btn{
+        padding: 15px 80px;
+    }
+    .loaderr{
+        margin: 43px 95px 56px;
+    }
+    .loaderrr{
+        margin: 2px 13% 54px;
+    }
+    .loaderrrrr{
+        margin: 5px 95px 35px;
+    }
+}
+@media screen and (max-width: 1110px) {
+    .search-nav {
+        width: 750px;
+    }  
+}
+@media screen and (max-width: 1070px){
+    .currencies_questions_info{
+        display: block;
+    }
+    .currencies{
+        margin: 50px;
+    }
+    .currencies1{
+        margin: 50px;
+    }
+}
+@media screen and (max-width: 1070px) {
+    .zakazt{
+        width: 290px;
+    }
+    .zakazt_btn{
+        padding: 15px 80px;
+    }
+    .loaderr{
+        margin: 43px 90px 56px;
+    }
+    .loaderrr{
+        margin: 2px 13% 54px;
+    }
+    .loaderrrrr{
+        margin: 5px 90px 35px;
+    }
+}
+@media screen and (max-width: 1045px) {
+    .search-nav {
+        width: 660px;
+    }  
+    .img_bas{
+        width: 64px;
+        height: 38px;
+        align-items: center;
+    }
+}
+@media screen and (max-width: 1010px) {
+    .zakazt{
+        width: 280px;
+    }
+}
+@media screen and (max-width: 990px) {
+    .ss{
+        font-size: 55px;
+    }
+    .e-mail{
+        width: 595px;
+        height: 55px;
+    }
+}
+@media screen and (max-width: 930px){
+    .Never_title{
+        font-size: 35px;
+    }
+    .e-mail{
+        width: 580px;
+    }
+    .emm{
+        padding: 14px 25px;
+    }
+}
+@media screen and (max-width: 945px) {
+    .search-nav {
+        width: 600px;
+    }
+    .img_bas{
+        width: 59px;
+        height: 30px;
+        align-items: center;
+    }
+    .icon{
+        font-size: 28px;
+        padding: 0 10px;
+    }
+    .about_krerdit_zakazat_block{
+        padding: 25px 5px;
+    }
+}
+@media screen and (max-width: 920px){
+    .about_krerdit_zakazat_block{
+        display: block;
+    }
+    .zakazt{
+        margin: 50px;
+    }
+}
+@media screen and (max-width: 895px){
+    .e-mail{
+        width: 515px;
+    }
+}
+@media screen and (max-width: 875px) {
+    .search-nav {
+        width: 500px;
+    }
+    .img_bas{
+        width: 50px;
+        height: 25px;
+        align-items: center;
+    }
+}
+@media screen and (max-width: 860px) {
+    .img_bkl{
+        width: 55%;
+        height: 425px;
+    }
+    .info{
+        margin: 35px 50px;
+    }
+    .ss{
+        font-size: 45px;
+        padding: 0 50px;
+    }
+}
+@media screen and (max-width: 832px){
+    .e-mail{
+        width: 490px;
+    }
+}
+@media screen and (max-width: 810px) {
+    .e-mail{
+        width: 400px;
+    }
+    .Never_title{
+        font-size: 30px;
+    }
+    .Never_text{
+        width: 500px;
+    }
+    .Never_miss_update{
+        height: 340px;
+        border-radius: 25px;
+    }
+}
+@media screen and (max-width: 715px){
+    .img-footer{
+          width: 150px;
+          height: 50px;
+    }
+    .e-mail{
+        width: 350px;
+        height: 50px;
+    }
+    .emm{
+        padding: 14px 20px;
+    }
+    .Never_title{
+        font-size: 25px;
+    }
+    .Never_text{
+        font-size: 14px;
+    }
+    .Never_miss_update{
+        background-image: none;
+        padding: 40px 0px 40px 8px
+    }
+}
+@media screen and (max-width: 710px){
+  .img_bkl{
+    width: 45%;
+    height: 345px;
+  }
+}
+@media screen and (max-width: 770px) {
+    .search-nav {
+        width: 400px;
+    }
+    .img_bas{
+        width: 75px;
+        height: 35px;
+        align-items: center;
+    }
+}
+@media screen and (max-width: 695px) {
+    .search-nav {
+        width: 300px;
+    }
+}
+@media screen and (max-width: 655px) {
+    .currencies{
+        margin: 50px 25px;
+    }
+    .currencies1{
+        margin: 50px 25px;
+    }
+}
+@media screen and (max-width: 640px){
+    .img_bkl{
+        display: none;
+    }
+}
+@media screen and (max-width: 625px) {
+    .img{
+        width: 60px;
+    }
+    .currencies{
+        width: 490px;
+        border-radius: 20px;
+    }
+    .currencies1{
+        width: 490px;
+        border-radius: 20px;
+    }
+}
+@media screen and (max-width: 595px) {
+    .search-nav {
+        width: 250px;
+    }
+}
+@media screen and (max-width: 570px) {
+    .currencies{
+        margin: 50px -18px;
+    }
+    .currencies1{
+        margin: 50px -18px;
+    }
+}
+@media screen and (max-width: 555px) {
+    .e-mail{
+        width: 300px;
+    }
+    .Never_title{
+        font-size: 20px;
+    }
+}
+@media screen and (max-width: 545px) {
+    .search-nav {
+       display: none;
+    }
+    .btn{
+        display: none;
+    }
+    .img_bas{
+        width: 85px;
+        height: 40px;
+        align-items: center;
+    }
+    .icon{
+        font-size: 30px;
+    }
+    .img-footer{
+        display: none;
+    }
+}
+@media screen and (max-width: 530px) {
+    .currencies{
+        width: 470px;
+    }
+    .currencies1{
+        width: 470px;
+    }
+    .Frequently_Questions_questions {
+        font-size: 40px;
+    }
+}
+@media screen and (max-width: 520px) {
+    .e-mail{
+        width: 270px;
+        margin-bottom: 25px;
+    }
+    .Never_text{
+        display: none;
+    }
+    .Never_title{
+        font-size: 25px;
+    }
+    .emm{
+        display: block;
+        padding: 15px 28px;
+        border-radius: 10px;
+        margin: 0 60px;
+    }
+    .Never_miss_update{
+        padding: 40px 0px 40px 18px;
+    }
+
+}
+@media screen and (max-width: 505px) {
+    .img {
+        height: 50px;
+        width: 50px;
+        margin: 10px -10px;
+    }
+    .currency{
+        font-size: 18px;
+        margin: 0 -15px;
+    }
+    .p{
+        margin: 6px -60px;
+    }
+    .currencies{
+        width: 405px;
+        height: 325px;
+        background-image: url(../img/media2.png);
+        background-repeat: no-repeat;
+    }
+    .currencies1{
+        width: 405px;
+        height: 325px;
+        background-image: url(../img/media.png);
+        background-repeat: no-repeat;
+    }
+}
+@media screen and (max-width: 458px) {
+    .footer{
+        padding: 60px 0 15px 44px
+    }
+    .img-footer{
+        display: block;
+        margin: 0 70px 33px 16px;
+    }
+    .footeer{
+        display: block;
+    }
+}
+@media screen and (max-width: 435px) {
+    .img {
+        height: 40px;
+        width: 40px;
+        margin: 8px -8px;
+    }
+    .currency {
+        font-size: 15px;
+        margin: 0 -15px;
+    }
+    .p{
+        margin: 0 -50px;
+    }
+    .currency1{
+        font-size: 15px;
+        padding: 0 10px;
+    }
+    .currencies{
+        width: 350px;
+        height: 280px;
+    }
+    .currencies1{
+        width: 350px;
+        height: 280px;
+    }
+    .Frequently_Questions_questions {
+        font-size: 30px;
+    }
+    .ask{
+        padding: 14px 60px;
+    }
+}
+@media screen and (max-width: 420px){
+    .zakazt{
+        width: 310px;
+        margin: 40px 8px;
+    }
+}
+@media screen and (max-width: 380px) {
+     .footer-title{
+        font-size: 45px; 
+        text-align: center;
+     }
+     .footer-text{
+        font-size: 20px;
+     }
+     .currencies{
+        width: 335px;
+     }
+     .currencies1{
+        width: 335px;
+     }
+     
+}
